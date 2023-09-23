@@ -163,8 +163,8 @@
       "RED_400": "#a297c3"
     },
     "background": {
-      "blur": 0.5,
-      "url": "https://raw.githubusercontent.com/IHTHG/Uvanler_BG_mobile/main/Uvanler%20Flag%20Files/Uvanler%20flag.PNG",
+      "blur": 0,
+      "url": "https://raw.githubusercontent.com/IHTHG/Uvanler_BG_mobile/main/Uvanler%20Flag%20Files/uvanler%20flag%20bg.png",
       "alpha": 0.7
     },
     "color": "#4d4463"
