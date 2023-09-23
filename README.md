@@ -2,7 +2,8 @@
 a mobile background version of the Uvanler Flag Back Ground, made for Enmity *
 
    |==---==|
-   
+
+Original By: Vodka Martini (found on the enmity discord server) 
 Edited By Coda(IHTHG)
 
 if you have any questions, contact me on discord: -|- user-ihthg | display-Coda -|-
