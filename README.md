@@ -20,4 +20,8 @@ whats planned for the future:
 
    |==---==|
 
+![preview](https://github.com/IHTHG/Uvanler_BG_mobile/assets/145818689/bc15e986-36c3-4e45-9501-2785e54d91f8)
+
+   |==---==|
+
 (*made for phones, not tablets)
