@@ -1,9 +1,9 @@
 {
     "name": "Vision",
-    "description": "A theme made by Vodka Martini",
+    "description": "A theme made by Coda/IHTHG -V:1.0-",
     "authors": [
       {
-        "name": "Vodka Martini",
+        "name": "Uvanler Flag",
         "id": "1068030255455015013"
       }
     ],
@@ -164,7 +164,7 @@
     },
     "background": {
       "blur": 0.5,
-      "url": "https://raw.githubusercontent.com/IHTHG/image_dump-1/main/uvanler%20flag.PNG?token=GHSAT0AAAAAACH6W3GQBPCCK3DAS45JRUNKZIOI4YQ",
+      "url": "https://raw.githubusercontent.com/IHTHG/Uvanler_BG_mobile/main/Uvanler%20Flag%20Files/Uvanler%20flag.PNG",
       "alpha": 0.7
     },
     "color": "#4d4463"
