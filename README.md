@@ -14,8 +14,7 @@ the current version is: [1.0.2] (release.major update.patch)
 
    |==---==|
 
-whats coming in the next major update:
-
+whats planned for the future:
    - updated background image
    - changeing of some colors
 
