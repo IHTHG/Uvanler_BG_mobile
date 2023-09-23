@@ -15,9 +15,13 @@ the current version is: [1.0.2] (release.major update.patch)
    |==---==|
 
 whats planned for the future:
-   - updated background image
    - changeing of some colors
 
+   |==---==|
+
+whats already done:
+   -Updated BackGround Image
+   
    |==---==|
 
 ![preview](https://github.com/IHTHG/Uvanler_BG_mobile/assets/145818689/bc15e986-36c3-4e45-9501-2785e54d91f8)
